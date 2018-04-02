@@ -68,5 +68,8 @@ iOSInjectionProject/
 *.o
 
 # The source code from the author
-./machinelearninginaction/
+./machinelearninginaction/ 
+
+# Intermediate file
+*.pyc
 
